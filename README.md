@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @ullagjes
-- 👀 I’m interested in Frontend development. React in particular.
-- 🤓 I’m also interested in: 
+- 👋 Hi, I’m @ullagjes aka Ulla Gjeset Schjølberg
+- 🖋️I'm a science reporter and an aspiring Frontend developer.
+- 👀 I’m really interested in React.
+- 🤓 But I’m also interested in: 
 - Google Firebase
 - Headless CMS (Cosmic)
 - React Native

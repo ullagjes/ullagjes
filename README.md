@@ -7,6 +7,8 @@
 - React Native
 - Mapbox
 - Plotly
+- HTML / CSS
+- User accessibility
 
 
 <!---

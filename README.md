@@ -5,6 +5,7 @@
 - Google Firebase
 - Headless CMS (Cosmic)
 - React Native
+- Next
 - Mapbox
 - Plotly
 - HTML / CSS

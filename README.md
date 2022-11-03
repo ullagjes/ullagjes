@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ullagjes aka Ulla Gjeset Schjølberg
-- 🖋️I'm a science reporter and an aspiring Frontend developer.
+- 🖋️I'm an aspiring Frontend developer, currently working for Publish Lab AS.
 - 👀 I’m really interested in React.
 - 🤓 But I’m also interested in: 
 - Google Firebase
